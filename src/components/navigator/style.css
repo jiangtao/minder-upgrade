@@ -1,0 +1,18 @@
+
+.nav-bar{
+  background-color: #fff !important;
+}
+.nav-btn{
+  vertical-align: middle;
+}
+.icon{
+  width: 20px !important;
+  height: 20px !important;
+}
+.zoom--pan .text{
+  color: #222;
+  display: inline-block;
+  text-align: center;
+  width: 30px;
+  user-select: none;
+}
